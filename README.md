@@ -1,5 +1,5 @@
 links:
 
-[design patterns](refactoring.guru/design-patterns)
+[design patterns op refactoring.guru](https://refactoring.guru/design-patterns)
 
-[cheatsheet oefen D toets](https://kilo2071.github.io/ood/)
+[cheatsheet oefen D toets op github](https://kilo2071.github.io/ood/)
